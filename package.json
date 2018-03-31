@@ -10,15 +10,15 @@
     "wallet"
   ],
   "repository": {
-    "url": "git@github.com:bitpay/bitcore-wallet.git",
+    "url": "git@github.com:BTCPrivate/bitcore-wallet.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/bitpay/bitcore-wallet/issues"
+    "url": "https://github.com/BTCPrivate/bitcore-wallet/issues"
   },
   "dependencies": {
     "async": "^2.5.0",
-    "bitcore-wallet-client": "^6.6.3",
+    "bitcore-wallet-client": "BTCPrivate/bitcore-wallet-client",
     "commander": "^2.6.0",
     "lodash": "^3.3.1",
     "moment": "^2.9.0",
